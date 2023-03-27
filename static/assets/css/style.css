@@ -469,7 +469,7 @@ h6 {
   background: #3dc8b7;
 }
 
-.btn_about {
+.button_about {
   display: inline-block !important;
   padding: 11px 37px;
   text-decoration: none;
@@ -483,7 +483,7 @@ h6 {
   z-index: 77;
 }
 
-.btn_about span {
+.button_about span {
   position: absolute;
   top: 0px;
   left: 0px;
@@ -494,11 +494,11 @@ h6 {
   transition: 0.7s ease-in;
 }
 
-.btn_about:hover span {
+.button_about:hover span {
   width: 100%;
 }
 
-.btn_about:hover {
+.button_about:hover {
   color: white;
 }
 
